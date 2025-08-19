@@ -1,0 +1,1 @@
+//Onde fica as ações que nosso componente irá fazer, principas funções.
