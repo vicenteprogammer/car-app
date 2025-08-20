@@ -39,5 +39,17 @@ export const styles = StyleSheet.create({
     width: '100%',
     height: 100
 
+  },
+  labelControlStyle:{
+    flexDirection: 'row',
+    justifyContent: 'space-around',
+    marginTop: 20,
+    alignItems:'center'
+  },
+
+  textLabel:{
+    color: 'white',
+    fontStyle: 'italic',
+    fontSize: 24
   }
 })

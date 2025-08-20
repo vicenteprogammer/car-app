@@ -1,1 +1,2 @@
 export const CAR_IMG_URL ='https://digitalinnovationone.github.io/fake-data-api-lamborghini/assets/'
+export const CAR_API_URL ='https://digitalinnovationone.github.io/fake-data-api-lamborghini/api/lamborghini.json'

@@ -8,7 +8,8 @@ export const styles = StyleSheet.create({
     backgroundColor: '#7595e4ff',
     padding: 10,
     width: '80%',
-    borderRadius: 10
+    borderRadius: 10,
+    marginTop:10
 
   },
 
