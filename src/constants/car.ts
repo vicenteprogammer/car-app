@@ -1,0 +1,1 @@
+export const CAR_IMG_URL ='https://digitalinnovationone.github.io/fake-data-api-lamborghini/assets/'

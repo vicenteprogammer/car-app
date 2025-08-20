@@ -32,5 +32,12 @@ export const styles = StyleSheet.create({
     color: 'white',
     fontSize: 20,
     fontWeight: 'bold'
+  },
+  imageCar:{
+    marginTop: 40,
+    marginBottom: 40,
+    width: '100%',
+    height: 100
+
   }
 })
